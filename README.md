@@ -11,7 +11,7 @@ Languages and Tools
 
 Follow Me
 -
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1E90FF)
+![Telegram@SozdatelTV](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1E90FF)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=MediumSeaGreen)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SozdatelTV31&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
