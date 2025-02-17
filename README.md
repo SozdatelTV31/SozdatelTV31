@@ -13,7 +13,7 @@ Follow Me
 -
 ![Telegram@SozdatelTV](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1E90FF)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=MediumSeaGreen)
-<a href="mailto:zev331507@gmail.com">Email Us</a>
+<a href="mailto:zev331507@gmail.com">Googl</a>
 
 -
 ![](https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/telegram.png)
