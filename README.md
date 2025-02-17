@@ -11,10 +11,12 @@ Languages and Tools
 
 Follow Me
 -
-![Telegram@SozdatelTV](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1E90FF)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=MediumSeaGreen)
+<a href="https://t.me/SozdatelTV">
+<img src="https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/telegrams.png" width="130" height="40"/></a>
+<a href="https://wa.me/79511338696?text=Welcome">
+<img src="https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/whatsap.png" width="100" height="40"/></a>
 <a href="mailto:zev331507@gmail.com">
-<img src="https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/gmail.png" width="100" height="29"/></a>
+<img src="https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/gmail.png" width="130" height="40"/></a>
 
 -
 ![](https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/telegram.png)
