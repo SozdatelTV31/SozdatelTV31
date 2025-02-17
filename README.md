@@ -9,7 +9,7 @@ Languages and Tools
 ![Puthon](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=#1E90FF)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=DarkGrey)
 ![javascript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript&logoColor=DarkGrey)
-![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=DarkGrey)
+![html](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html&logoColor=DarkGrey)
 
 
 
