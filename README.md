@@ -3,44 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Hobby - Programming</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-            color: #333;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        h1 {
-            color: #1E90FF;
-        }
-        .languages, .follow-me {
-            margin: 20px 0;
-        }
-        .languages img, .follow-me img {
-            margin: 0 10px;
-        }
-        .qr-code {
-            text-align: center;
-            margin-top: 20px;
-        }
-        footer {
-            text-align: center;
-            margin-top: 40px;
-            font-size: 12px;
-            color: #888;
-        }
-    </style>
 </head>
-<body>
-
 <header>
-    <h1>![Header](https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/heander.jpg)</h1>
+    <img src="https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/heander.jpg"
     <p>My hobby is programming, and I have a degree. I exhibit my work here.</p>
 </header>
 
