@@ -6,7 +6,15 @@
 </head>
 <header>
     <img src="https://github.com/SozdatelTV31/SozdatelTV31/blob/main/assets/heander.jpg"
-    <p>My hobby is programming, and I have a degree. I exhibit my work here.</p>
+    <p>"I create high-quality solutions for your business using modern technologies!"
+
+ Individual approach: Each solution is developed taking into account the unique needs of your project.
+ Modern technologies: I use up-to-date programming tools and languages to achieve maximum efficiency.
+ Verified results: My portfolio includes successful projects that have helped clients increase productivity and profits.
+
+ Check out my projects on GitHub!
+ Contact me for a free consultation!
+ Subscribe for updates and keep up to date with my new developments!</p>
 </header>
 
 <section class="languages">
