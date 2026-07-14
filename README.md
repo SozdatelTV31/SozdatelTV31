@@ -46,7 +46,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2025 My Programming Portfolio</p>
+    <p>&copy; 2025-2026 My Programming Portfolio</p>
 </footer>
 
 </body>
